@@ -7,7 +7,8 @@ threshold segmentation isolate high0density bone structures structures
 - erased scapula and connected islands to leave ribcage, sternum, spine
 - median smoothing applied at 2-3 mm. 3.00 took off too much volume
 - set at 2.00 mm
+- Gaussian removed rib cage, too jagged
 minor artifacts removed and smoothed
 
-## expoert
+## export
 stl mesh
