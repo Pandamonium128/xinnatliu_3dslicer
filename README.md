@@ -30,5 +30,11 @@ Towards training LLM models
 publicly available dataset
 not clinically validated
 
+## future work
+- manual and semi-automatic segmentation
+- automate segmentation, python
+- export for CAD implant, surgical guide design
+- automation for LLM, generative training
+
 ## Software
 - 3d slicer 5.10.0
